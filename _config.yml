@@ -9,8 +9,9 @@ date: 2025-01-06
 
 Welcome to my first blog post!
 
+nav:
+  - title: Papers
+    url: /statistics/2025-01-05-Papers.html
 
-include:
-  - statistics/2025-01-05-Papers.md
 
 
